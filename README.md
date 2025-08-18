@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <你的名字></h1>
+<h1 align="center">Hi 👋, I'm 云水禅心</h1>
 <h3 align="center">一名热爱技术与创造的开发者</h3>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 ### 🌟 关于我
 - 🔭 正在探索 **前端/后端/AI**
-- 🌱 我正在学习 **React / Python / Rust / Kubernetes**
-- 💬 问我关于 **JavaScript、TypeScript、Node.js** 的问题
+- 🌱 我正在学习 **Java / Vuue**
+- 💬 问我关于 **Java、Vue** 的问题
 - 📫 联系我：353199054@qq.com
 - ⚡ 有趣的事实：**我每天都在开卷！**
 
@@ -19,7 +19,7 @@
 ### 🛠️ 技能栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i= java,SpringBoot,js,ts,react,html,css,python,nodejs,git,docker,k8s,mysql,aws" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 </p>
 
 ---
