@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 打字动画标题 -->
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/yibingzhi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Java+%7C+Full-stack+%7C+Content+Creator" alt="Typing SVG" />
 </a>
 
@@ -29,12 +29,12 @@
 ---
 
 ### 👋 关于我
-- 🔭 正在做：**YOUR_CURRENT_PROJECT**  
-- 🌱 在学：**Java / Spring / System Design / Cloud-native**  
+- 🔭 正在做：**ai代码生成**  
+- 🌱 在学：**Java / Spring / Vue / Mysql**  
 - 🧠 兴趣：**AI 应用、数据可视化、效率工具、内容创作**  
 - 💬 可以聊：**Java、并发、微服务、职业规划、自媒体增长**  
-- 😄 趣事：**YOUR_FUN_FACT**  
-- 📫 联系：**YOUR_EMAIL**
+- 😄 趣事：**神经大条**  
+- 📫 联系：**353199054@qq.com**
 
 ---
 
@@ -67,12 +67,8 @@
 ---
 
 ### 🚀 高光项目
-- 🧭 **PROJECT_NAME_1** — PROJECT_ONE_SHORT_DESC  
+- 🧭 **暂时还无** — 未来一定会有的！！！
   `Java` `Spring Boot` `PostgreSQL` • Demo：`https://your-demo-link`
-- 🧩 **PROJECT_NAME_2** — PROJECT_TWO_SHORT_DESC  
-  `React` `TypeScript` `Vite` • Repo：`https://github.com/USERNAME/REPO2`
-- 🛰️ **PROJECT_NAME_3** — PROJECT_THREE_SHORT_DESC  
-  `Python` `FastAPI` `Docker` • Docs：`https://your-docs-link`
 
 > 可固定项目卡片（Pin）：到你的 profile 主页点击 “Customize your pins”。
 
@@ -82,33 +78,26 @@
 <div align="center">
 
 <!-- 贡献统计 -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=transparent&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yibz&theme=transparent&hide_border=true" alt="streak" />
 
 <!-- 总览 & 语言 -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=yibz&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yibz&layout=compact&hide_border=true&theme=transparent" alt="top langs" />
 
 <!-- 奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=yibz&theme=onestar&no-frame=true&row=1&column=6" alt="trophies" />
 
 <!-- 活动图谱 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true&radius=8" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yibz&hide_border=true&radius=8" alt="activity graph" />
 
 </div>
 
 ---
 
-### 🗂️ 内容与产出
-- 📚 最近文章：  
-  - [TITLE_1](YOUR_POST_1_LINK) — 1 句话摘要  
-  - [TITLE_2](YOUR_POST_2_LINK) — 1 句话摘要  
-  - [TITLE_3](YOUR_POST_3_LINK) — 1 句话摘要
-- 🎥 视频/直播： [Bilibili/YouTube/TikTok 链接]
-
 ---
 
 ### 🧩 我的工作流
-- IDE：IntelliJ IDEA / VS Code  
+- IDE：IntelliJ IDEA / VS Code  /Trae
 - 提交规范：Conventional Commits + Semantic Versioning  
 - 自动化：GitHub Actions • 构建/测试/部署一条龙  
 - 代码质量：Spotless / Checkstyle / ESLint / Prettier / Sonar
@@ -118,8 +107,8 @@
 <details>
 <summary>✨ 彩蛋：点我展开</summary>
 
-- 持续学习清单：系统设计 100 题、开源贡献、技术写作  
-- 人生箴言：**Keep it simple, ship it often.**  
+- 持续学习清单：java高级工程师
+- 人生箴言：**简简单单，让世界充满爱.**  
 - 你也可以给我来个 ⭐ Star：我会每天都更努力！
 
 </details>
@@ -129,6 +118,6 @@
 <div align="center">
   
 Made with ❤️ by <a href="https://github.com/USERNAME">YOUR_NAME</a> ·
-<a href="https://github.com/USERNAME/USERNAME/edit/main/README.md">Edit this page</a>
+<a href="https://github.com/yibz/yibz/edit/main/README.md">Edit this page</a>
 
 </div>
