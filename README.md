@@ -5,15 +5,15 @@
 
 <!-- 打字动画标题 -->
 <a href="https://github.com/yibingzhi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Java+%7C+Full-stack+%7C+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+云水禅心+%F0%9F%91%8B;Java+%7C+Full-stack+%7C+Content+Creator" alt="Typing SVG" />
 </a>
 
 <!-- 社交/联系 -->
 <p>
-  <a href="mailto:YOUR_EMAIL"><img alt="email" src="https://img.shields.io/badge/Email-contact-blue?logo=gmail"></a>
+  <a href="mailto353199054@qq.com"><img alt="email" src="https://img.shields.io/badge/Email-contact-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/USERNAME"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@USERNAME-0A66C2?logo=linkedin"></a>
   <a href="https://x.com/USERNAME"><img alt="X" src="https://img.shields.io/badge/Twitter-@USERNAME-111?logo=x"></a>
-  <a href="https://YOUR_BLOG_URL"><img alt="blog" src="https://img.shields.io/badge/Blog-Visit-10b981?logo=astro"></a>
+  <a href="https://yibz.netlify.app/"><img alt="blog" src="https://img.shields.io/badge/Blog-Visit-10b981?logo=astro"></a>
   <img alt="visitors" src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=ff69b4&style=flat">
 </p>
 
@@ -55,13 +55,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  <!-- 数据 -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
-  <!-- 云 -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" />
 </p>
 
 ---
