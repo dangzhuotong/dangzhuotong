@@ -47,16 +47,10 @@
 ### 🌐 社交链接
 
 <p align="left">
-  <a href="https://twitter.com/你的推特" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30" /></a>
   <a href="https://linkedin.com/in/https://yibz.netlify.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30" /></a>
-  <a href="https://medium.com/@你的账号" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="30" height="30" /></a>
-  <a href="https://codepen.io/你的账号" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30" height="30" /></a>
 </p>
 
 ---
 
-### 📈 个人贡献图（趣味版）
-
-![Pac-Man Contributions](https://github-readme-pacman.vercel.app/?username=你的用户名&theme=retro&disable-animation=false)
 
 > 🎯 *“代码即艺术，开源即自由。”*
