@@ -5,7 +5,7 @@
 
 <!-- 打字动画标题 -->
 <a href="https://github.com/yibingzhi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+云水禅心+%F0%9F%91%8B;Java+%7C+Full-stack+%7C+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Hi%2C+I'm+'云水禅心'+%F0%9F%91%8B;Java+%7C+Full-stack+%7C+Content+Creator" alt="Typing SVG" />
 </a>
 
 <!-- 社交/联系 -->
