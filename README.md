@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <你的名字></h1>
+<h3 align="center">一名热爱技术与创造的开发者</h3>
 
-<!--
-**yibingzhi/yibingzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=云水禅心&label=Profile%20views&color=0e75b6&style=flat" alt="云水禅心" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 关于我
+- 🔭 正在探索 **前端/后端/AI**
+- 🌱 我正在学习 **React / Python / Rust / Kubernetes**
+- 💬 问我关于 **JavaScript、TypeScript、Node.js** 的问题
+- 📫 联系我：353199054@qq.com
+- ⚡ 有趣的事实：**我每天都在开卷！**
+
+---
+
+### 🛠️ 技能栈
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i= java,SpringBoot,js,ts,react,html,css,python,nodejs,git,docker,k8s,mysql,aws" />
+</p>
+
+---
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dracula&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
+
+---
+
+### 🎮 动态彩蛋
+
+<!-- 右侧浮动动画 -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZwZzB6Y2RjM2R0ZGw4NjZ0d2N6YXN5N3V5M2RtMjN4bGJ1Y2x4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xAFYFV4xr9Zd2Q/giphy.gif">
+
+---
+
+### 🌐 社交链接
+
+<p align="left">
+  <a href="https://twitter.com/你的推特" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30" /></a>
+  <a href="https://linkedin.com/in/https://yibz.netlify.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30" /></a>
+  <a href="https://medium.com/@你的账号" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="30" height="30" /></a>
+  <a href="https://codepen.io/你的账号" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30" height="30" /></a>
+</p>
+
+---
+
+### 📈 个人贡献图（趣味版）
+
+![Pac-Man Contributions](https://github-readme-pacman.vercel.app/?username=你的用户名&theme=retro&disable-animation=false)
+
+> 🎯 *“代码即艺术，开源即自由。”*
