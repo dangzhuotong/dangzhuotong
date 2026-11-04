@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=26&pause=2000&color=789282&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+zhuotong+%E2%98%81%EF%B8%8F;Indie+developer%2C+building+with+AI+agents.;Building+in+public%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="assets/typing.svg" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:353199054@qq.com"><img src="https://img.shields.io/badge/Mail-353199054%40qq.com-F0F4F2?style=flat-square&logo=minutemailer&logoColor=789282" alt="Email"/></a>
@@ -31,7 +31,7 @@
 ### 🎐 常用工具 / Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,vue,tauri,rust,java,spring,mysql,redis,docker,nginx,git,githubactions,vscode&perline=8" alt="Skills" />
+  <img src="assets/skills.svg" alt="Skills" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Cursor-AI_Pair-F0F4F2?style=flat-square&labelColor=F0F4F2&color=789282" alt="Cursor"/>
   <img src="https://img.shields.io/badge/MCP-Tools-F0F4F2?style=flat-square&labelColor=F0F4F2&color=789282" alt="MCP"/>
@@ -42,5 +42,5 @@
 
 <div align="center">
   <p>🌱 Thanks for dropping by. Have a wonderful day.</p>
-  <img src="https://komarev.com/ghpvc/?username=yibingzhi&label=views&color=F0F4F2&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/Thanks-for%20dropping%20by-F0F4F2?style=flat-square&color=789282" alt="views" />
 </div>
