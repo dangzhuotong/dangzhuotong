@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/typing.svg" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/dangzhuotong/dangzhuotong/master/assets/typing.svg" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:353199054@qq.com"><img src="https://img.shields.io/badge/Mail-353199054%40qq.com-F0F4F2?style=flat-square&logo=minutemailer&logoColor=789282" alt="Email"/></a>
@@ -31,7 +31,7 @@
 ### 🎐 常用工具 / Toolbox
 
 <div align="center">
-  <img src="assets/skills.svg" alt="Skills" />
+  <img src="https://raw.githubusercontent.com/dangzhuotong/dangzhuotong/master/assets/skills.svg" alt="Skills" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Cursor-AI_Pair-F0F4F2?style=flat-square&labelColor=F0F4F2&color=789282" alt="Cursor"/>
   <img src="https://img.shields.io/badge/MCP-Tools-F0F4F2?style=flat-square&labelColor=F0F4F2&color=789282" alt="MCP"/>
